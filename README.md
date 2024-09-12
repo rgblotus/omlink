@@ -1,1 +1,1 @@
-# winlink
+# debianlink
